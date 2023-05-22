@@ -1,25 +1,57 @@
 ## Download
 
-You should first download the application, and you can start it
-from your desktop next time.
+We have built this project for different operating system. Please click this link and install the latest project in your computer.
+
+<https://github.com/sustech-taskmate/Taskmate/tags>
 
 ## CAS Verification
 
-You can use your SUSTech cas account to log in this application.
+![img.png](./img.png)
 
-## Check Assignments Information
+In this interface, you can use your SUSTech Cas account to log in this application.
 
-You can choose assignments corresponding to courses at main page.
-There is an assignment list, you can see submit ratio, grading
-ratio and so on. If you want to see more information, you can
-enter the assignment page. You can see all students submitting
-information who need to do this assignment or download in
-batches. You can get statistics such as score distribution.
+## Course and Assignment Information
 
-## Grading Assignments
+![img_2.png](./img_2.png)
 
-You can choose an assignment to grade. At grading page, you
-can check the assignment attachments online, grading every sub questions,
-and note the reason for every deduction of points. If you
-find some problems, you can go to chatBar at left bottom corner
-to find answer or initiate a dialogue.
+In this interface, you can see the overview of your course information:
+including all courses in different semesters, all assignments without grading (in the lower right corner).
+- If you click 'CHECK' button, you can immediately jump to the relative assignments.
+- If you click blue cards in the relative semester item, you can enter the interface which shows all assignments belong to this semester
+
+
+## Choose Assignments
+
+![img_3.png](./img_3.png)
+
+In this interface, you can see the overview of your course information:
+including all courses in different semesters, all assignments with information.
+- You can click the arrow icon in the left bar and click course to get all assignment from this course.
+- You can see the information of all assignment including the time and grade ratio.
+- You can click view to see students homework.
+
+## Grade Assignments
+
+![img_4.png](./img_4.png)
+
+Please click 'GRADE' button to grade this homework.
+
+![img_5.png](./img_5.png)
+
+<font color="#dd0000">因grade的分母显示问题，此图需要换</font>
+
+In this interface, you can grade students homework
+
+- You can click left file on the left. The content of this file will show in the middle container.
+- Our system will split different question number according the server information 
+and generate a number of big cards. You can input the value and comments for each question. 
+The value above will sum up all value of big cards automatically.
+- Meanwhile, you can click the 'plus' icon which will create some small cards. 
+You can change the symbol and set the value. The big card will automatically sum up all small cards value.
+The comments in small cards will be collected too.
+
+## Assignments Statistics
+
+<font color="#dd0000">这里缺个统计图，数据少太丑了，不想放</font>
+
+You can see the overview of score and the score distribution of every question.

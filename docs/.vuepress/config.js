@@ -1,15 +1,15 @@
 module.exports = {
     title: 'Taskmate Manual',
-    description: 'Taskmate manual',
+    description: 'an open source grading desktop application with synchronisation capabilities for Windows and MacOS',
     head: [
-        ['link', { rel: 'icon', href: '/logo.jpg' }]
+        ['link', { rel: 'icon', href: '/icon.ico' }]
     ],
 }
 
 // 配置导航栏
 module.exports = {
     themeConfig: {
-        logo: '/logo.jpg',
+        logo: '/icon.ico',
         search: true,
         searchMaxSuggestions: 3,
         nav: [
@@ -20,7 +20,7 @@ module.exports = {
                 items: [
                     { text: 'Student', link: '/User/Student/' },
                     { text: 'Teacher', link: '/User/Teacher/' },
-                    { text: 'FAQ', link: '/User/FAQ/'}
+                    // { text: 'FAQ', link: '/User/FAQ/'}
                 ]
             },
             { text: 'Version', link: '/Version/' },

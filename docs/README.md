@@ -1,15 +1,15 @@
 ---
 home: true
 heroText: Taskmate Manual
-tagline: Template · Theme · Plugin
+tagline: Cross-platform · User-friendly · Convenient
 actionText: Get Started →
-actionLink: /Overview/
+actionLink: /Introduction/
 features:
-  - title: Template
-    details: Rich templates
-  - title: Theme
-    details: Custom theme
-  - title: Plugin
-    details: Multiple plugins
-footer: MIT Licensed | Copyright © 2020-present OpenHacking
+  - title: Cross-platform
+    details: Work on both Windows and MacOS
+  - title: User-friendly
+    details: Simple Interface 
+  - title: Convenient
+    details: Detailed Documentation
+#footer: MIT Licensed | Copyright © 2020-present OpenHacking
 ---

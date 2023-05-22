@@ -1,28 +1,22 @@
 ## Background
 
-The sakai system of SUSTech is not very convenient for TAs and
-teachers to grade assignments. We develop this project to help
-TAs and teachers to have a more convenient grading environment.
+Sakai is a popular system which is set up in 2005 March. Many colleges, business organizations and individual developers are taking part in this project.
+Up till now, more than 300 colleges are using Sakai in their daily work. However, due to the unstable network and inconvenient interface, 
+many students and teachers hope a more useful and convenient system for their study and work.
 
-## Project Target
+## Project Scope
 
-We want to develop a desktop application that can be deployed
-on different operating systems. If users are students, they
-can submit assignments, and check the score. If users are TAs
-or teachers, they can grade assignments and discuss them.
-We expect students have a clear vision of assignments and scores.
-And graders can conveniently preview the attachments of assignment
-online rather than download to localhost or download in batches,
-get the relevant statistics and feedback information of specific
-assignment.
+We hope to develop a desktop application which can be installed
+on different operating systems. We hope our users can use their CAS accounts to log in our project.
+
+With the authentication of SUSTech, different user can get their own authority:
+- For students, they can submit their assignments in the system.
+- For teachers and teacher assistants, they can grade students' assignments online, get the statistical results and chat with other teachers.
 
 ## Target Users
 
 Teachers, TAs and students of SUSTech.
 
-## Project Scope
 
-The functions of our project includes CAS login certification
-submit assignments, send arguments, check scores, grade assignments
-with notes on questions and individual items, discuss assignments,
-preview attachments, get the relevant statistics and so on.
+
+
