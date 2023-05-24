@@ -36,9 +36,7 @@ including all courses in different semesters, all assignments with information.
 
 Please click 'GRADE' button to grade this homework.
 
-![img_5.png](./img_5.png)
-
-<font color="#dd0000">因grade的分母显示问题，此图需要换</font>
+![img_6.png](img_6.png)
 
 In this interface, you can grade students homework
 
@@ -52,6 +50,6 @@ The comments in small cards will be collected too.
 
 ## Assignments Statistics
 
-<font color="#dd0000">这里缺个统计图，数据少太丑了，不想放</font>
+![img_7.png](img_7.png)
 
 You can see the overview of score and the score distribution of every question.
