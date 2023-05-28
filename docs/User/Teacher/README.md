@@ -36,7 +36,7 @@ including all courses in different semesters, all assignments with information.
 
 Please click 'GRADE' button to grade this homework.
 
-![img_6.png](img_6.png)
+![img_6.png](./img_6.png)
 
 In this interface, you can grade students homework
 
@@ -50,6 +50,6 @@ The comments in small cards will be collected too.
 
 ## Assignments Statistics
 
-![img_7.png](img_7.png)
+![img_7.png](./img_7.png)
 
 You can see the overview of score and the score distribution of every question.
