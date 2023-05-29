@@ -1,6 +1,6 @@
 ---
 home: true
-heroText: Taskmate Manual
+heroText: Taskmate
 tagline: Cross-platform · User-friendly · Convenient
 actionText: Get Started →
 actionLink: /Introduction/
